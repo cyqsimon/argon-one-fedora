@@ -1,3 +1,7 @@
+# WIP
+
+I only just forked this repo. In case you stumbled upon it (why?), don't use it yet.
+
 # Argon40 Cases and HATs Scripts
 
 The Argon40 Cases and HATs are the ergonomic and aesthetic case for the Raspberry Pi. This repository provides samples and references on how to customize our scripts and even create your own versions.  You can find out more about it on:
